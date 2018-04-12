@@ -1,6 +1,6 @@
 {
   "name": "xenious-cordova-plugin-google-analytics",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Google Universal Analytics Plugin",
   "cordova": {
     "id": "xenious-cordova-plugin-google-analytics",
